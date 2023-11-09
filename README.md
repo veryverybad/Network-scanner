@@ -24,5 +24,8 @@ options:
 ```
 ## Example of use
 ```
-python3 zikken.py -t 0.1 -n 1 -w
+python3 scan.py
+```
+```
+python3 scan.py -t 0.1 -n 1 -w
 ```
