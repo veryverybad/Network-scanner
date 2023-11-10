@@ -1,3 +1,8 @@
+# Requirements
+```
+pip3 install requests
+pip3 install ipget
+```
 # Using
 ```
 >python3 scan.py
