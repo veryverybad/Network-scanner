@@ -35,6 +35,4 @@ python3 scan.py
 python3 scan.py -t 0.1 -n 1 -w
 ```
 # Disclaimer
-"""
 このソフトを犯罪目的で使用しても、作成者は一切の責任を負いません。
-"""
