@@ -3,7 +3,7 @@
 pip3 install requests
 pip3 install ipget
 ```
-# Using
+# Usage
 ```
 >python3 scan.py
 usage: yaru.py [-h] [--ip IP] [-i I] [-t T] [-n N] [-w] [-k] [-s]
