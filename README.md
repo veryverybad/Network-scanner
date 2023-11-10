@@ -27,7 +27,6 @@ options:
               reduced))
   -s          精密スキャンを使用する(時間はかかる)(Use precision scanning (takes time))
 ```
-# Example of use
 ```
 python3 scan.py
 ```
